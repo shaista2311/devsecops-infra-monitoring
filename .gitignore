@@ -5,3 +5,13 @@ __pycache__/
 *.pem
 .env
 database/monitoring.db
+
+# SonarScanner generated files
+.scannerwork/
+
+# Temporary/editor files
+*.swp
+*.swo
+
+# Build logs
+build_log.txt
