@@ -77,8 +77,7 @@ pipeline {
                     docker run -d \
                         --name monitoring_dashboard \
                         -p 5000:5000 \
-			-v /home/admin/AISIMDP-Shaista/database:/app/database
-                        aisimdp:latest
+			-v /home/admin/AISIMDP-Shaista/database:/app/database \                        aisimdp:latest
 
                     echo "Container deployed successfully."
 
