@@ -14,7 +14,7 @@ A centralized platform for monitoring Linux infrastructure, detecting security t
 - Fail2Ban
 - Git
 - GitHub
-- AI (Scikit-learn)
+- AI (Isolation Forest)
 
 
 
